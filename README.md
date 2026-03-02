@@ -18,7 +18,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/react-memory-game.git
+git clone https://github.com/SifanGeremu/memory-game
 
 Navigate to the project directory:
 
