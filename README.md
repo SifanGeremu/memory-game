@@ -1,4 +1,5 @@
 React Memory Game
+based in  fruit cards
 
 A simple and fun Memory Game built with React. Test your memory by matching pairs of fruits before time runs out!
 
